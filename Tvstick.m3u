@@ -244,7 +244,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 http://singamcloud.in/rasinetworks/rasimovies/playlist.m3u8
 #EXTINF:0 group-title="Movies",Rasi TV
 http://singamcloud.in/rasinetworks/rasitv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Movies",Rasi Holly
+#EXTINF:0 group-title="Movies",Rasi Hollywood
 http://singamcloud.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Movies",Rasi Tamil
